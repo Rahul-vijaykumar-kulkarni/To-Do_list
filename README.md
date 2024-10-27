@@ -1,5 +1,7 @@
 # To-Do List Application
 
+![Deployed Version](https://img.shields.io/badge/Deployed%20Version-View%20App-brightgreen?style=flat&logo=netlify&logoColor=white&link=https://to-do-list-rk.netlify.app)
+
 ## Overview
 
 This To-Do List application allows users to manage tasks with a flexible recurrence feature. Users can set tasks to repeat daily, weekly, monthly, or yearly, with options for specific days and intervals.

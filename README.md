@@ -1,4 +1,3 @@
-
 # To-Do List Application
 
 ## Overview
@@ -18,6 +17,10 @@ This To-Do List application allows users to manage tasks with a flexible recurre
 - Date-fns for date manipulation
 - React DatePicker for selecting dates
 - Tailwind CSS for styling
+
+## Deployed Version
+
+You can view the live application [here](https://to-do-list-rk.netlify.app).
 
 ## Getting Started
 
